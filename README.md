@@ -1,48 +1,31 @@
-<h1 align="center">Hi 👋, I'm Mehedy Kabir</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&multiline=true&width=435&lines=Software+Engineering+Student;Rust+%7C+C%2B%2B+%7C+Java+%7C+Bash+%7C+Python;Problem+Solver+%7C+Tool+Maker;mehedyk+on+the+web" />
+<!-- Profile Views -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mehedyk&label=Profile+views&color=0e75b6&style=flat" alt="mehedyk" />
 </p>
 
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehedyk&label=Profile+Views&color=blue&style=flat" alt="mehedyk" />
-</p>
-
----
-
-### 🧠 Who I Am
-
-<p align="center">
-  🚀 Currently building cool things quietly.<br>
-  🧰 Always sharpening skills, one commit at a time.<br>
-  🎯 Focused on problem solving, privacy, and simplicity.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Tool+Builder+%7C+Problem+Solver;Rust+%7C+C%2B%2B+%7C+Java+%7C+Bash;Always+in+build+mode..." />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+<!-- GitHub Stats and Streaks -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedyk&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedyk&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedyk&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehedyk&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
+<!-- Cool animated activity graph -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehedyk&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedyk&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
-
+<!-- Trophies -->
 <p align="center">
-  <img src="https://github.com/mehedyk/mehedyk/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mehedyk&theme=darkhub&no-bg=true&no-frame=true&margin-w=5" />
 </p>
-
----
-
-> _“Write. Improve. Repeat.”_
