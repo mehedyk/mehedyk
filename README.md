@@ -5,7 +5,7 @@
 
 <!-- Greetings -->
 <h1 align="center">Salam, Mehedyk here!</h1>
-<h3 align="center">A passionate Software Engineering student from Bangladesh 🇧🇩</h3>
+<h3 align="center">Software Engineering student</h3>
 
 <!-- Typing animation -->
 <p align="center">
