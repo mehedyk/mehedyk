@@ -4,7 +4,7 @@
 </p>
 
 <!-- Greetings -->
-<h1 align="center">Salam, Mehedyk here!</h1>
+<h1 align="center">Assalamu Alaikum, Mehedyk here!</h1>
 <h3 align="center">Software Engineering student</h3>
 
 <!-- Typing animation -->
