@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Assalamu+Alaikum!+%F0%9F%91%8B;I'm+S.M. Mehedy Kawser" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Assalamu+Alaikum!+%F0%9F%91%8B;I'm+S.M.+Mehedy+Kawser" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🎓 Software Engineering Student | 🛠️ Tool Builder | 💡 Problem Solver</h3>
@@ -123,27 +123,12 @@ let current_status = Developer {
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mehedyk/mehedyk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehedyk/mehedyk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehedyk/mehedyk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mehedyk/mehedyk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
----
-
-### 💼 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=mehedyk&repo=PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00FF99&text_color=c9d1d9)](https://github.com/mehedyk/PROJECT_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=mehedyk&repo=PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00FF99&text_color=c9d1d9)](https://github.com/mehedyk/PROJECT_2)
-
-</div>
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -152,16 +137,6 @@ let current_status = Developer {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 </div>
-
----
-
-<!-- ### 🎵 Currently Vibing To
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00FF99&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-</div> -->
 
 ---
 
