@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=These%20are%20my%20Coded%20Records&fontSize=42&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
-</div>
+</div> -->
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mehedyk&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
