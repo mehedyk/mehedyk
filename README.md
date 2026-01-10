@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Workshop&fontSize=42&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Assalamu%20Alaikum.%20These%20are%20my%20Coded%20Records&fontSize=42&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <p align="right">
@@ -27,12 +27,26 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehedyk/mehedyk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehedyk/mehedyk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mehedyk/mehedyk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+---
+
 ### 🎯 Current Focus
 
 ```rust
 let current_status = Developer {
-    learning: vec!["Rust Systems Programming", "Distributed Systems", "Cloud Architecture"],
-    building: "CLI tools and automation scripts",
+    learning: vec!["Python in deep", "Distributed Systems", "Cloud Architecture"],
+    building: "Which solves and automation scripts",
     reading: "The Pragmatic Programmer",
     challenge: "Contributing to open source daily",
     goal: "Building impactful software solutions"
@@ -142,19 +156,6 @@ let current_status = Developer {
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedyk&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 </div>
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehedyk/mehedyk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehedyk/mehedyk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mehedyk/mehedyk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
 
 ### 💭 Dev Quote of the Day
 
